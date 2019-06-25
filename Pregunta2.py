@@ -7,4 +7,4 @@
 
 #Ejemplo:
 #Un usuario busca la manera de solucionar a través de un sistema operativo los diferentes errores en celulares
-#de una empresa para venderlos a bajo precio en el mercado.
+#de una empresa para venderlos a bajo precio en el mercado, teniendo en cuenta el mantenimiento que realizan cada mes.
